@@ -1,1 +1,1 @@
-export const wizard = "ravalynm"
+export const wizard = "Ravalynm"
