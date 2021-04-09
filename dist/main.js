@@ -1,1 +1,6 @@
-(()=>{"use strict";console.log("faris Kanbur"),console.log("ravalynm"),console.log("Hjulmar")})();
+(() => {
+  "use strict";
+  console.log("faris Kanbur"),
+   console.log("ravalynm"), 
+   console.log("Hjulmar");
+})();
